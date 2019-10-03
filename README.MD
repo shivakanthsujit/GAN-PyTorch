@@ -16,6 +16,6 @@ pip install -r requirements.txt
 ```
 
 ### Output of the Network before and after training
-![](resources/outputs/epoch-0100.png)  ![](resources/outputs/epoch-4900.png) 
+![](resources/outputs/epoch-0100.png)![](resources/outputs/epoch-4900.png) 
 ### Graph of the losses of the Generator and Discriminator
 ![](resources/loss.png)
