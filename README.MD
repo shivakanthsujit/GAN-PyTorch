@@ -12,7 +12,7 @@ These optimisations were based on the recommendations from [Improved Techniques 
 **To run this project**
 ```
 pip install -r requirements.txt
-./GAN.py
+python GAN.py
 ```
 
 ### Output of the Network before and after training
